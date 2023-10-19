@@ -6,7 +6,7 @@
  
 Filter characters
 
- http://localhost:3000/characters?name=Jon Snow
+ http://localhost:3000/characters?name=Jon%20Snow
 
 Detail characters (donde 5 es el id del personaje)
 
